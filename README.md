@@ -3,12 +3,14 @@ This library is an efficient way to prevent developers using jQuery to get stuff
 
 ### Usage
 
-- Simple download the file into your application folder
+- Simply download the file into your application folder
 - Add the nojquery library into your application like this after the body tag
 
 
 `		</body>`
+
 `		<script src="/nojquery.js"></script>`
+
 `</html>`
 
 ###  Disclaimer
